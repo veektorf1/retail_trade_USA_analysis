@@ -14,7 +14,8 @@ There are 65 categories of businesses.
 
 * Percentage of not null sales records
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/a5098698-49bf-4a06-ae81-5bab9acf738c)
-
+  
 # 2. Data exploration
+ a) In the categories I'm primarly analysing there are two null values in October,November 2020, so i'll 
 # 3. Data analysis
 
