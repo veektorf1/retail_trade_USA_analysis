@@ -2,7 +2,7 @@
 Insights on data available on retail economic activity in the United States from 1992-2020
 In my analysis I'll focus primarly on women's and men's clothing sales
 
-# 1. Data exploration
+## 1. Data exploration
 * Columns in dataset
   ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/54b7057c-2a26-4a9c-a1e8-8db1f80eab2b)
 
@@ -23,7 +23,7 @@ In my analysis I'll focus primarly on women's and men's clothing sales
   
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/db2b2c0a-738a-4e07-8985-a74f1807f2b0)
 
-# 2. Data analysis
+## 2. Data analysis
  The category i'm analysing primarly is men's and women's clothing stores.
  There are two null values in 2020 for men's sales
  
@@ -57,7 +57,7 @@ Cristmas period appears to influence people's buying tendency.
 After December, a noticable drop in January/February is clearly visible.
 Another noteworthy thing is how much sales plummeted after COVID-19 lockdown (2020).
 
-We can apply rolling average to make smoother visualization
+We can apply rolling average to smooth out visualization
 Rolling average for women's sales:
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/b523a39b-1ba5-4d28-9d85-bb0b0fb05ee8)
 
@@ -91,6 +91,18 @@ This will provide a better insight on increasing buying power during Christmas. 
 ![december_to_rest_ratio](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/7298bfad-5bf9-46be-82dd-877214364d1f)
 
 Ratio in the 2010's is about 1.3/1.4 (exception is 2020 COVID Christmas) while in the 90's and early to mid 00's it was oscilationg about 1.6. People back in 1990-2006 used to spend more on clothing for christmas than it is in 2010's which could be affected by Great Recession.
+
+### Recessions analysis
+To undestand the powerful impact of two recessions: Great Recession and COVID-19, I'll compare how sales plumetted for different businesses.
+In order to provide easily readible comparison I'll use only businesses which don't have any null sales
+![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/b29ec437-b6c5-48a7-a6ac-9aecb9fb6635)
+
+Picked businesses:
+- "Beer, wine, and liquor stores"
+- "Women's clothing stores"
+- "Grocery stores"
+- "Sporting goods stores"
+- "Restaurants and other eating places"
 
 
 
