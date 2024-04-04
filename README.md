@@ -57,7 +57,12 @@ Cristmas period appears to influence people's buying tendency.
 After December, a noticable drop in January/February is clearly visible.
 Another noteworthy thing is how much sales plummeted after COVID-19 lockdown (2020).
 
-We can apply rolling average to make be visualization
+We can apply rolling average to make smoother visualization
+Rolling average for women's sales:
+![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/b523a39b-1ba5-4d28-9d85-bb0b0fb05ee8)
+
+![rolling_avg_women](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/1de56574-9e36-4db2-a0c8-9fd516b37438)
+
 
 ### YoY Growth
 For each month I'll compare cumulative sales of last 12 months
