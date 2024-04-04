@@ -85,24 +85,28 @@ It affirms my previous statements about massive drops standing out, in 2009 (-13
 Here I'm going to compare sales from two periods of the year:
   - December
   - Rest of the year
+
 This will provide a better insight on increasing buying power during Christmas. I'll take into account women's clothing sales
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/73111a7e-2320-4aec-b7d7-119df7cb5964)
 
 ![december_to_rest_ratio](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/7298bfad-5bf9-46be-82dd-877214364d1f)
 
-Ratio in the 2010's is about 1.3/1.4 (exception is 2020 COVID Christmas) while in the 90's and early to mid 00's it was oscilationg about 1.6. People back in 1990-2006 used to spend more on clothing for christmas than it is in 2010's which could be affected by Great Recession.
+Ratio in the 2010's is about 1.3 to 1.4 (exception is 2020 COVID Christmas) while in the 90's and early-mid 00's it was oscilating about 1.6. People, back in 1990-2006, used to spend more on clothing for christmas than it is in 2010's which could be attributed to the effects of the Great Recession.
 
 ### Recessions analysis
 To undestand the powerful impact of two recessions: Great Recession and COVID-19, I'll compare how sales plumetted for different businesses.
 In order to provide easily readible comparison I'll use only businesses which don't have any null sales
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/b29ec437-b6c5-48a7-a6ac-9aecb9fb6635)
+* Great Recession
+  I performed a query to look for a minimum value in yoy pct growth among these business categories which didn't have any null values
+  ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/7ec1b406-bc82-4be3-ac29-56eeb52f43a6)
+  ![Great_recession](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/14b973c4-dc89-44b9-ba30-dd988734602e)
 
-Picked businesses:
-- "Beer, wine, and liquor stores"
-- "Women's clothing stores"
-- "Grocery stores"
-- "Sporting goods stores"
-- "Restaurants and other eating places"
+  Majority of business categories suffered from a massive decline in yoy growth. But there were also the ones which weren't that much affected by Great Recession, e.g. 
+
+
+* COVID-19
+
 
 
 
