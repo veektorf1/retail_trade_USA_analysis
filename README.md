@@ -97,15 +97,23 @@ Ratio in the 2010's is about 1.3 to 1.4 (exception is 2020 COVID Christmas) whil
 To undestand the powerful impact of two recessions: Great Recession and COVID-19, I'll compare how sales plumetted for different businesses.
 In order to provide easily readible comparison I'll use only businesses which don't have any null sales
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/b29ec437-b6c5-48a7-a6ac-9aecb9fb6635)
-* Great Recession
+* **Great Recession**
+  
   I performed a query to look for a minimum value in yoy pct growth among these business categories which didn't have any null values
   ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/7ec1b406-bc82-4be3-ac29-56eeb52f43a6)
   ![Great_recession](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/14b973c4-dc89-44b9-ba30-dd988734602e)
 
-  Majority of business categories suffered from a massive decline in yoy growth. But there were also the ones which weren't that much affected by Great Recession, e.g. 
+  Majority of business categories suffered from a massive decline in yoy growth. But there were also the ones which weren't that strongly affected by 
+  Great Recession, e.g. Health and personal care stores (+2.19%), Grocery stores (-0.59%), Food and beverage stores (-0.51%) which includes basic necessities.
+
+  Among the businesses with greatest decline (below -15%) in yoy growth there are mainly furniture stores (-16%), automobile dealers, used car dealers, new car dealers (-16 to -25%)  and fuel dealers with decline reaching almost -30%.
+  
+![Great_recession](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/0f4a28b3-85bd-4c0f-a0dd-ad0d93a5a3f5)
 
 
-* COVID-19
+* **COVID-19**
+
+  
 
 
 
