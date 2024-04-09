@@ -115,7 +115,7 @@ In order to provide easily readible comparison I'll use only businesses which do
 
   In case of COVID-19, e-commerce businesses were dealing pretty good with lockdown as people were forced to stay in home and the most convenient way to buy products was online. Therefore Electronic shopping and mail-order houses and Nonstore retailers sales rocketed over that period by at least 13% in comparison to previous year.
 
-The covid recessions touched severly businesses that rely on stationary shops like clothing stores, book stores or 
+The covid recession touched severly businesses that rely on stationary shops like clothing stores, book stores, shoe stores.
 
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/5a936eb7-e7b8-4d6e-b02b-c7d8b706d3b6)
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/28327e78-afc0-4153-bb96-346cc15796da)
