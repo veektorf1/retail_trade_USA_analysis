@@ -1,5 +1,6 @@
 # Monthly_Retail_Trade_USA
 Insights on data available on retail economic activity in the United States from 1992-2020
+
 In my analysis I'll focus primarly on women's and men's clothing sales
 
 ## 1. Data exploration
