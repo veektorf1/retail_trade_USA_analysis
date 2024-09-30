@@ -1,9 +1,19 @@
 # Monthly_Retail_Trade_USA
 Insights on data available on retail economic activity in the United States from 1992-2020
 
+<ol>
+  <li><a href='#data-exploration'>Data exploration</a></li>
+  <li><a href='#data-analysis'>Data analysis</a></li>
+  <ol>
+    <li><a href='#yearly-sales-share'>Yearly sales share</a></li>
+    <li><a href='#monthly-sales-share'>Monthly sales share</a></li>
+  </ol>
+</ol>
+
+
 In my analysis I'll focus primarly on women's and men's clothing sales
 
-## 1. Data exploration
+<h2 id='data-exploration'>1. Data exploration</h2>
 * Columns in dataset
   ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/54b7057c-2a26-4a9c-a1e8-8db1f80eab2b)
 
@@ -24,13 +34,13 @@ In my analysis I'll focus primarly on women's and men's clothing sales
   
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/db2b2c0a-738a-4e07-8985-a74f1807f2b0)
 
-## 2. Data analysis
+<h2 id='data-analysis'>2. Data analysis</h2>
  The category i'm analysing primarly is men's and women's clothing stores.
  There are two null values in 2020 for men's sales
  
  ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/9e1245e0-2ccd-4556-8c89-b3b1e2fc633d)
 
-  ### Yearly sales share
+  <h3 id='yearly-sales-share'>2.1 Yearly sales share</h3>
   On the chart we can discern a downwards trend for men's clothing sales in comparison to women's sales
   
  ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/a6711a89-6cac-481d-bd47-d2f20f573893)
@@ -43,7 +53,7 @@ The 2020 drop in difference is mainly caused by the fact of 2 null values in men
 
 In general men's share on clothing sales in on downwards trend since mid/late 90's
 
-### Monthly sales share
+<h3 id='monthly-sales-share'>2.2 Monthly sales share</h3>
 Now I'm going to do the same as above but for every month individually
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/f00f0370-b823-4c15-beff-322025ec5e6b)
 
