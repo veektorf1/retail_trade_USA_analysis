@@ -11,7 +11,6 @@ Insights on data available on retail economic activity in the United States from
    - [Year over Year Growth](#yoy-growth)
    - [Seasonal Fluctuations](#seasonal-fluctuations)
    - [Recessions Analysis](#recessions-analysis)
-3. [Conclusion](#conclusion)
 
 ---
 
@@ -126,11 +125,12 @@ Ratio in the 2010's is about 1.3 to 1.4 (exception is 2020 COVID Christmas) whil
 ---
 
  <h3 id='recessions-analysis'>2.5 Recessions analysis</h3>
-To undestand the powerful impact of two recessions: Great Recession and COVID-19, I'll compare how sales plumetted for different businesses.
+To undestand the powerful impact of two infamous economic downturns: Great Recession and COVID-19, I'll compare how sales plumetted for different businesses.
 In order to provide easily readible comparison I'll use only businesses which don't have any null sales
 
+
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/b29ec437-b6c5-48a7-a6ac-9aecb9fb6635)
-Here I'm going to focus on two infamous economic downturns and get insights on kinds of businesses which performed the worst and the ones that even managed to maintain positive YoY growth despite the recession
+
 
 * **Great Recession**
   
