@@ -95,6 +95,7 @@ Rolling average for women's sales:
 <h3 id='yoy-growth'>2.3 YoY Growth</h3>
 For each month I'll compare cumulative sales of last 12 months
 First of all, let's get cumulative sales of last 12 months
+
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/f2e7af7c-60a2-42c0-b37e-1e8078a3369b)
 
 ![cumulative_yearly_Sales](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/ab8cc9e3-68ba-4457-86fe-706d129f0e9f)
