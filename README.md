@@ -1,6 +1,6 @@
 # Monthly_Retail_Trade_USA
 Insights on data available on retail economic activity in the United States from 1992-2020
-[POWER BI FILE DOWNLOAD](https://github.com/veektorf1/retail_trade_USA_analysis/blob/main/Retail_Sales_USA.pbix)
+[POWERBI FILE](https://github.com/veektorf1/retail_trade_USA_analysis/blob/main/Retail_Sales_USA.pbix)
 ---
 
 ## Table of Contents
