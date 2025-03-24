@@ -117,6 +117,7 @@ Here I'm going to compare sales from two periods of the year:
   - Rest of the year
 
 This will provide a better insight on increasing buying power during Christmas. I'm going to focus on women's clothing sales
+
 ![image](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/73111a7e-2320-4aec-b7d7-119df7cb5964)
 
 ![december_to_rest_ratio](https://github.com/veektorf1/Monthly_Retail_Trade_USA/assets/125961580/7298bfad-5bf9-46be-82dd-877214364d1f)
